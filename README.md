@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @Bright1017
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on a project...
-- 📫 How to reach me via email: melvinbright101@gmail.com ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ Hi, I’m Bright
 
-<!---
-Bright1017/Bright1017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+I’m interested in building **scalable backend systems, APIs, and data-driven solutions** 
+
+I’m currently learning **advanced FastAPI patterns, hybrid database design (PostgreSQL + MongoDB), and AI-integrated backend features**
+
+I’m looking to collaborate on projects involving **logistics platforms, role-based access systems**
+
+How to reach me: **melvinbright101@gmail.com**
+
+Pronouns: He/Him
+
+Fun fact: I built **QuickPedal**, a full-featured logistics backend with modular architecture, RBAC, secure authentication, and caching mechanisms—demonstrating production-level backend engineering skills!
