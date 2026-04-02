@@ -43,4 +43,4 @@ Projects involving **logistics platforms, secure role-based APIs, and performanc
 
 
 ## Fun Fact
-I built **QuickPedal**, a production-level logistics backend that demonstrates **real engineering skills and system design thinking**—making me ready for **growth, ** an adventure with endless posiblity**.
+I built **QuickPedal**, a production-level logistics backend that demonstrates **real engineering skills and system design thinking**—making me ready for **growth, with endless posiblity**.
