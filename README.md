@@ -1,7 +1,7 @@
 # Hi, I’m Bright
 
 ## About Me
-I’m a **Python Backend Engineer** specializing in **FastAPI, scalable APIs, and hybrid database systems**. I build production-ready systems that combine modular architecture, security, and performance optimization.  
+I’m a **Python Backend Engineer** specializing in **FastAPI, scalable APIs, and hybrid database systems**. I build production-ready systems that combine modular architecture, security, and performance optimization with tools and framework like: FastAPI, PostgreSQL, MongoDB | Open to remote backend engineering roles involving FastAPI, PostgreSQL, MongoDB, and AI/data-driven systems
 
 
 ## Key Projects
