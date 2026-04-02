@@ -21,8 +21,7 @@ I’m a **Python Backend Engineer** specializing in **FastAPI, scalable APIs, an
 - **Languages & Frameworks:** Python, FastAPI, Django and DRF 
 - **Databases:** PostgreSQL, MongoDB  
 - **Backend Expertise:** REST APIs, authentication, RBAC, caching, modular system design  
-- **Tools:** Git/GitHub, Postman, VS Code  
-- **Analytical & AI-Ready:** Data processing, logic-driven backend solutions, AI integration basics  
+- **Tools:** Git/GitHub, Postman, VS Code, Swagger UI 
 
 
 
