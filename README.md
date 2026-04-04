@@ -33,11 +33,11 @@ I’m a **Python Backend Engineer** specializing in **FastAPI, scalable APIs, an
 
 
 ## Looking to Collaborate On
-Projects involving **logistics platforms, secure role-based APIs, and performance-optimized backend systems**  
+Projects involving **logistics platforms, secure role-based APIs, and performance-optimized backend systems and backend related projects.**  
 
 
 ## Contact
-- Email: **melvinbright101@gmail.com**
+- Email: **chikabrightokezie@gmail.com**
 
 
 
